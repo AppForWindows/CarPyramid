@@ -1,0 +1,11 @@
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\bin\Debug\CarPyramidKeyGen.exe.config
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\bin\Debug\CarPyramidKeyGen.exe
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\bin\Debug\CarPyramidKeyGen.pdb
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\bin\Debug\CarPyramid.exe
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\bin\Debug\CarPyramid.pdb
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\obj\Debug\CarPyramidKeyGen.csprojResolveAssemblyReference.cache
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\obj\Debug\CarPyramidKeyGen.KeyGen.resources
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\obj\Debug\CarPyramidKeyGen.Properties.Resources.resources
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\obj\Debug\CarPyramidKeyGen.csproj.GenerateResource.Cache
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\obj\Debug\CarPyramidKeyGen.exe
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramidKeyGen\obj\Debug\CarPyramidKeyGen.pdb

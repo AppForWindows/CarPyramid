@@ -1,0 +1,13 @@
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\bin\Debug\CarPyramid.exe.config
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\bin\Debug\CarPyramid.exe
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\bin\Debug\CarPyramid.pdb
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\obj\Debug\CarPyramid.MainForm.resources
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\obj\Debug\CarPyramid.Properties.Resources.resources
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\obj\Debug\CarPyramid.csproj.GenerateResource.Cache
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\obj\Debug\CarPyramid.exe
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\obj\Debug\CarPyramid.pdb
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\bin\Debug\System.Net.Http.dll
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\obj\Debug\CarPyramid.csprojResolveAssemblyReference.cache
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\obj\Debug\CarPyramid.TaskForm.resources
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\obj\Debug\CarPyramid.AboutLic.resources
+D:\CarPyramid.TFS\CarPyramid\CarPyramid\CarPyramid\CarPyramid\obj\Debug\CarPyramid.ActvationForm.resources

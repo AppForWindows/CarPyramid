@@ -1,0 +1,42 @@
+﻿<LoadDataForCarPyramidApplication CompanyName="Оконный Континент" ProductKey="EDEB2489-297F8825-68A67B5E-12113180">
+  <Task Guid="0831B403-6AE5-4D94-8982-39A321C4B973" NameTask="NameTask 1" UserDataTask="UserDataTask 1">
+    <Car NameCar="GazelleShort" />
+    <Order TaskSort="1" IdOrder="20580" NameOrder="М9П-0887" UserDataOrder="351EDB6E-6073-40E4-9265-1692837B717C">
+      <Item Size="1290" Qu="3" SizeAdd="1530" IdItem="169059" NameItem="О-1,2,3" UserDataItem="11F7D7D2-771C-4DD7-B7F5-96A443EA56F8" />
+      <Item Size="750" Qu="1" SizeAdd="2230" IdItem="169065" NameItem="ББ-1:БД-1" UserDataItem="AE06F783-6E21-4E36-8EDF-48A882246C1A" />
+      <Item Size="1350" Qu="1" SizeAdd="1530" IdItem="169066" NameItem="ББ-1:О-1" UserDataItem="08D95FD1-D775-4F95-988F-C68539CE5BC4" />
+    </Order>
+    <Order TaskSort="2" IdOrder="20850" NameOrder="М9А-0414" UserDataOrder="F6CAA2A8-B6D9-4ACC-A083-60DA14C52E33">
+      <Item Size="2060" Qu="1" SizeAdd="1540" IdItem="171085" NameItem="О-1" UserDataItem="DA5F7ABC-9F48-4872-9DBD-4953F17CAEB9" />
+      <Item Size="1890" Qu="1" SizeAdd="1540" IdItem="171086" NameItem="О-2" UserDataItem="741CD890-2C36-4A25-89F7-6ACE21891CDE" />
+    </Order>
+    <Order TaskSort="3" IdOrder="20990" NameOrder="М9Щ-0834" UserDataOrder="7B7727E9-4AB0-43DD-8E5B-A741F429C44F">
+      <Item Size="2060" Qu="1" SizeAdd="1430" IdItem="172083" NameItem="О-1" UserDataItem="5E937DE5-0ECD-4D45-8EA7-535B0D7F71BC" />
+    </Order>
+  </Task>
+  <Task Guid="E7258839-97C9-4A3F-9EAD-9752D1FA2DD7" NameTask="NameTask 2" UserDataTask="UserDataTask 2">
+    <Car NameCar="CustomCar" CarType="2" RowLenght="3000" RowCount="9" PyramidCount="1" />
+    <Order TaskSort="1" IdOrder="19134" NameOrder="9Ю-0765" UserDataOrder="7FAA348E-0454-4D6C-A319-B43B28FECC59">
+      <Item Size="670" Qu="1" SizeAdd="2280" IdItem="158633" NameItem="ББ-1" UserDataItem="F44C3FA9-1899-41C3-B1BE-8C421F3A4593" />
+      <Item Size="1170" Qu="1" SizeAdd="1400" IdItem="158634" NameItem="ББ-1" UserDataItem="44C790DC-21A0-4FC5-B394-CE194C2EDE71" />
+    </Order>
+    <Order TaskSort="2" IdOrder="19165" NameOrder="9М-1065" UserDataOrder="B5BFF6D3-87CA-4470-9422-AF215CB6639A">
+      <Item Size="690" Qu="1" SizeAdd="2130" IdItem="158837" NameItem="Изделие 1" UserDataItem="1B8D278E-52B3-4556-B36E-635CAE6C8125" />
+      <Item Size="1190" Qu="1" SizeAdd="1400" IdItem="158838" NameItem="Изделие 2" UserDataItem="F81C04EB-7D52-41CE-AD25-E567689CFAB9" />
+    </Order>
+    <Order TaskSort="3" IdOrder="19482" NameOrder="М9В-0710" UserDataOrder="E98012CC-9AB8-4195-B337-C792DB11548D">
+      <Item Size="1280" Qu="2" SizeAdd="1515" IdItem="161321" NameItem="О-1,2" UserDataItem="53C90CD1-AD63-494A-B3F7-289FFF10EB91" />
+      <Item Size="1880" Qu="1" SizeAdd="1515" IdItem="161322" NameItem="О-3" UserDataItem="E19C1FBE-020E-4547-AA5F-F403C287C6A3" />
+      <Item Size="740" Qu="1" SizeAdd="2080" IdItem="161324" NameItem="ББ-1" UserDataItem="CD450AA3-EF9F-422F-9BA0-C24130D371A0" />
+      <Item Size="740" Qu="1" SizeAdd="1510" IdItem="161325" NameItem="ББ-1" UserDataItem="194124AE-AB52-4D80-B427-0A3FEE1A98ED" />
+    </Order>
+    <Order TaskSort="4" IdOrder="19556" NameOrder="М9Н-0507" UserDataOrder="53E10570-82E1-41B9-B614-2960F84982EF">
+      <Item Size="1300" Qu="2" SizeAdd="1510" IdItem="161918" NameItem="О-1:О-2" UserDataItem="A3F9FC62-C8D5-42CE-8BFB-18C2C71DDA24" />
+    </Order>
+    <Order TaskSort="5" IdOrder="19671" NameOrder="М9Э-0673" UserDataOrder="3D240BF1-E7E4-4388-A0B2-CB13DC709CA9">
+      <Item Size="720" Qu="1" SizeAdd="1520" IdItem="162849" NameItem="ББ-1" UserDataItem="B0CB83C8-ABB3-4E5D-A2A1-D447EF6067ED" />
+      <Item Size="760" Qu="1" SizeAdd="2260" IdItem="162850" NameItem="ББ-1" UserDataItem="25F79B2F-8E14-4C06-AABA-DBC365B1DDAE" />
+      <Item Size="441" Qu="1" SizeAdd="1446" IdItem="163604" NameItem="МС-1" UserDataItem="F9B9E4DE-8705-4A7C-9ABC-FE6E26A3737B" />
+    </Order>
+  </Task>
+</LoadDataForCarPyramidApplication>

@@ -1,0 +1,1 @@
+start "" "D:\CarPyramid.exe" "D:\CarPyramidShort.cptsk"

@@ -1,0 +1,302 @@
+﻿<LoadDataForCarPyramidApplication CompanyName="Оконный Континент" ProductKey="EDEB2489-297F8825-68A67B5E-12113180">
+  <Task Guid="0831B403-6AE5-4D94-8982-39A321C4B973" NameTask="NameTask 1" UserDataTask="UserDataTask 1">
+    <Car NameCar="GazelleShort" />
+    <Order TaskSort="1" IdOrder="20580" NameOrder="М9П-0887" UserDataOrder="351EDB6E-6073-40E4-9265-1692837B717C">
+      <Item Size="1290" Qu="3" SizeAdd="1530" IdItem="169059" NameItem="О-1,2,3" UserDataItem="11F7D7D2-771C-4DD7-B7F5-96A443EA56F8" />
+      <Item Size="750" Qu="1" SizeAdd="2230" IdItem="169065" NameItem="ББ-1:БД-1" UserDataItem="AE06F783-6E21-4E36-8EDF-48A882246C1A" />
+      <Item Size="1350" Qu="1" SizeAdd="1530" IdItem="169066" NameItem="ББ-1:О-1" UserDataItem="08D95FD1-D775-4F95-988F-C68539CE5BC4" />
+    </Order>
+    <Order TaskSort="2" IdOrder="20850" NameOrder="М9А-0414" UserDataOrder="F6CAA2A8-B6D9-4ACC-A083-60DA14C52E33">
+      <Item Size="2060" Qu="1" SizeAdd="1540" IdItem="171085" NameItem="О-1" UserDataItem="DA5F7ABC-9F48-4872-9DBD-4953F17CAEB9" />
+      <Item Size="1890" Qu="1" SizeAdd="1540" IdItem="171086" NameItem="О-2" UserDataItem="741CD890-2C36-4A25-89F7-6ACE21891CDE" />
+    </Order>
+    <Order TaskSort="3" IdOrder="20990" NameOrder="М9Щ-0834" UserDataOrder="7B7727E9-4AB0-43DD-8E5B-A741F429C44F">
+      <Item Size="2060" Qu="1" SizeAdd="1430" IdItem="172083" NameItem="О-1" UserDataItem="5E937DE5-0ECD-4D45-8EA7-535B0D7F71BC" />
+    </Order>
+  </Task>
+  <Task Guid="E7258839-97C9-4A3F-9EAD-9752D1FA2DD7" NameTask="NameTask 2" UserDataTask="UserDataTask 2">
+    <Car NameCar="CustomCar" CarType="2" RowLenght="3000" RowCount="9" PyramidCount="1" />
+    <Order TaskSort="1" IdOrder="19134" NameOrder="9Ю-0765" UserDataOrder="7FAA348E-0454-4D6C-A319-B43B28FECC59">
+      <Item Size="670" Qu="1" SizeAdd="2280" IdItem="158633" NameItem="ББ-1" UserDataItem="F44C3FA9-1899-41C3-B1BE-8C421F3A4593" />
+      <Item Size="1170" Qu="1" SizeAdd="1400" IdItem="158634" NameItem="ББ-1" UserDataItem="44C790DC-21A0-4FC5-B394-CE194C2EDE71" />
+    </Order>
+    <Order TaskSort="2" IdOrder="19165" NameOrder="9М-1065" UserDataOrder="B5BFF6D3-87CA-4470-9422-AF215CB6639A">
+      <Item Size="690" Qu="1" SizeAdd="2130" IdItem="158837" NameItem="Изделие 1" UserDataItem="1B8D278E-52B3-4556-B36E-635CAE6C8125" />
+      <Item Size="1190" Qu="1" SizeAdd="1400" IdItem="158838" NameItem="Изделие 2" UserDataItem="F81C04EB-7D52-41CE-AD25-E567689CFAB9" />
+    </Order>
+    <Order TaskSort="3" IdOrder="19482" NameOrder="М9В-0710" UserDataOrder="E98012CC-9AB8-4195-B337-C792DB11548D">
+      <Item Size="1280" Qu="2" SizeAdd="1515" IdItem="161321" NameItem="О-1,2" UserDataItem="53C90CD1-AD63-494A-B3F7-289FFF10EB91" />
+      <Item Size="1880" Qu="1" SizeAdd="1515" IdItem="161322" NameItem="О-3" UserDataItem="E19C1FBE-020E-4547-AA5F-F403C287C6A3" />
+      <Item Size="740" Qu="1" SizeAdd="2080" IdItem="161324" NameItem="ББ-1" UserDataItem="CD450AA3-EF9F-422F-9BA0-C24130D371A0" />
+      <Item Size="740" Qu="1" SizeAdd="1510" IdItem="161325" NameItem="ББ-1" UserDataItem="194124AE-AB52-4D80-B427-0A3FEE1A98ED" />
+    </Order>
+    <Order TaskSort="4" IdOrder="19556" NameOrder="М9Н-0507" UserDataOrder="53E10570-82E1-41B9-B614-2960F84982EF">
+      <Item Size="1300" Qu="2" SizeAdd="1510" IdItem="161918" NameItem="О-1:О-2" UserDataItem="A3F9FC62-C8D5-42CE-8BFB-18C2C71DDA24" />
+    </Order>
+    <Order TaskSort="5" IdOrder="19671" NameOrder="М9Э-0673" UserDataOrder="3D240BF1-E7E4-4388-A0B2-CB13DC709CA9">
+      <Item Size="720" Qu="1" SizeAdd="1520" IdItem="162849" NameItem="ББ-1" UserDataItem="B0CB83C8-ABB3-4E5D-A2A1-D447EF6067ED" />
+      <Item Size="760" Qu="1" SizeAdd="2260" IdItem="162850" NameItem="ББ-1" UserDataItem="25F79B2F-8E14-4C06-AABA-DBC365B1DDAE" />
+      <Item Size="441" Qu="1" SizeAdd="1446" IdItem="163604" NameItem="МС-1" UserDataItem="F9B9E4DE-8705-4A7C-9ABC-FE6E26A3737B" />
+    </Order>
+  </Task>
+  <Task Guid="0A1734E9-0501-4036-A63F-9B5E47C7A2AD" NameTask="NameTask 3" UserDataTask="UserDataTask 3">
+    <Car NameCar="GazelleLong" />
+    <Order TaskSort="1" IdOrder="18708" NameOrder="9П-0880" UserDataOrder="2EA26E10-5820-4A1C-95C4-0DF182CCE752">
+      <Item Size="1740" Qu="1" SizeAdd="1730" IdItem="155443" NameItem="О-1" UserDataItem="3BD7E94F-E39C-4C90-82C6-0C90F866CE9E" />
+      <Item Size="2650" Qu="1" SizeAdd="2180" IdItem="155460" NameItem="О-15" UserDataItem="8A183135-F26C-429A-95CF-EF698ECCB024" />
+      <Item Size="830" Qu="1" SizeAdd="1730" IdItem="155444" NameItem="О-2" UserDataItem="8CDB0FBF-597E-4054-B76F-33F55D610801" />
+      <Item Size="725" Qu="1" SizeAdd="1730" IdItem="155445" NameItem="О-3" UserDataItem="F1B032EB-5B90-4D34-A089-B40BCFF6DEA0" />
+      <Item Size="830" Qu="1" SizeAdd="1730" IdItem="155446" NameItem="О-4" UserDataItem="722DC13F-A664-4A9E-BAB6-CE5282EB4ECE" />
+      <Item Size="830" Qu="1" SizeAdd="1730" IdItem="155447" NameItem="О-5" UserDataItem="7A73A90F-A033-4674-855C-FA2ACF58744B" />
+      <Item Size="830" Qu="1" SizeAdd="1730" IdItem="155448" NameItem="О-6" UserDataItem="41BEDCD9-B3A0-4F3D-A20D-FDFC2F4F937D" />
+      <Item Size="830" Qu="1" SizeAdd="1200" IdItem="155449" NameItem="О-7" UserDataItem="D1FE488E-34CA-4622-B2F7-DE2CE1CF95D8" />
+      <Item Size="830" Qu="1" SizeAdd="970" IdItem="155450" NameItem="О-8" UserDataItem="1124FA9F-1CBB-4188-8186-60E2D5B1F543" />
+      <Item Size="830" Qu="1" SizeAdd="1500" IdItem="155453" NameItem="О-11" UserDataItem="167CC381-47F9-420C-BE28-F179BBE99492" />
+      <Item Size="830" Qu="1" SizeAdd="550" IdItem="155451" NameItem="О-9" UserDataItem="560A3979-9717-4492-A7A0-EB8B31B74788" />
+      <Item Size="830" Qu="1" SizeAdd="550" IdItem="155452" NameItem="О-10" UserDataItem="F0485D6E-BD2D-47E4-B569-207DE2CA5E7B" />
+      <Item Size="830" Qu="1" SizeAdd="1500" IdItem="155454" NameItem="О-12" UserDataItem="C9AD54C4-39DC-4704-818E-2002DB87641A" />
+      <Item Size="830" Qu="1" SizeAdd="1500" IdItem="155455" NameItem="О-13" UserDataItem="7ED3BC08-7524-4A63-BA5D-9A1BD2F2C252" />
+      <Item Size="840" Qu="1" SizeAdd="1500" IdItem="155456" NameItem="О-14" UserDataItem="6A54A1BC-9DA7-411D-AAF2-DA8BC8E4F162" />
+      <Item Size="830" Qu="1" SizeAdd="1510" IdItem="155461" NameItem="О-16" UserDataItem="5CACB433-8674-4F64-8122-02395FEAA44F" />
+      <Item Size="730" Qu="1" SizeAdd="1510" IdItem="155463" NameItem="О-17" UserDataItem="497146F1-0F0F-491B-9245-D853C95B502B" />
+      <Item Size="830" Qu="1" SizeAdd="1510" IdItem="155466" NameItem="О-18" UserDataItem="E6C6A802-754B-4912-8416-4BB9A61CE7D1" />
+      <Item Size="830" Qu="1" SizeAdd="1510" IdItem="155467" NameItem="О-19" UserDataItem="AEDEAED9-8943-4E69-90DE-D194FE8974C7" />
+      <Item Size="570" Qu="1" SizeAdd="540" IdItem="155468" NameItem="О-20" UserDataItem="886A15AA-34CF-4B87-AE1D-A151D3FA38C0" />
+      <Item Size="560" Qu="1" SizeAdd="540" IdItem="155469" NameItem="О-21" UserDataItem="43852E12-51B7-4EA5-8988-1A7596385E1C" />
+    </Order>
+    <Order TaskSort="2" IdOrder="18740" NameOrder="9Э-0665" UserDataOrder="3189E6AC-E29C-469D-A80B-029E4A308EF2">
+      <Item Size="1600" Qu="1" SizeAdd="1545" IdItem="155604" NameItem="О-1" UserDataItem="4C415408-B153-4A30-B71A-D20E6F0D21D4" />
+      <Item Size="1270" Qu="1" SizeAdd="1545" IdItem="155605" NameItem="ББ-1" UserDataItem="20BD436E-528D-4CA4-8B7A-43F64DEDCDF8" />
+      <Item Size="830" Qu="1" SizeAdd="2260" IdItem="155606" NameItem="ББ-1" UserDataItem="C09ED92B-370E-4A8A-AA94-29AD77304863" />
+      <Item Size="1360" Qu="1" SizeAdd="1540" IdItem="155607" NameItem="О-2" UserDataItem="1FA2B0B0-B07F-4302-943D-61E75A654416" />
+    </Order>
+    <Order TaskSort="3" IdOrder="18752" NameOrder="9М-1042" UserDataOrder="A0BF5651-626D-4E13-B1E5-AFABE837BF05">
+      <Item Size="1300" Qu="1" SizeAdd="1350" IdItem="155730" NameItem="О-1" UserDataItem="2D292D98-F351-448F-A9F4-A81B5E1A740B" />
+      <Item Size="2100" Qu="1" SizeAdd="1350" IdItem="155731" NameItem="О-2" UserDataItem="88DD34CA-8656-4BD8-B54B-0235B7F563BA" />
+    </Order>
+    <Order TaskSort="4" IdOrder="18928" NameOrder="9М-1061" UserDataOrder="8093FEB0-4DEF-4E2E-81EC-A265A63B74D5">
+      <Item Size="2030" Qu="1" SizeAdd="1400" IdItem="157029" NameItem="О-1" UserDataItem="9B7D9EFE-CB03-48A7-8432-F473A8513FFF" />
+      <Item Size="1430" Qu="1" SizeAdd="1400" IdItem="157030" NameItem="О-2" UserDataItem="5A50BBA0-D50D-4A7C-A7A5-63ECA9548B5C" />
+    </Order>
+  </Task>
+  <Task Guid="AB64004B-FEB6-44CE-90B0-28749054A10C" NameTask="NameTask 4" UserDataTask="UserDataTask 4">
+    <Car NameCar="Isuzu" />
+    <Order TaskSort="1" IdOrder="510644" NameOrder="М5Т-1294" UserDataOrder="69E7D7BF-C11D-42E0-992E-1F21EB35D68E">
+      <Item Size="440" Qu="8" SizeAdd="1450" IdItem="4852371" NameItem="М/С -1-8" UserDataItem="AA438268-D091-4965-8203-4942DA367FA9" />
+    </Order>
+    <Order TaskSort="2" IdOrder="541387" NameOrder="О6НФ-0877" UserDataOrder="06E0D5F7-1BE8-44DF-8999-942D467DEDEA">
+      <Item Size="1350" Qu="3" SizeAdd="1290" IdItem="5167624" NameItem="о-1:о-2:о-5" UserDataItem="745B1F64-97A2-414B-8CD6-E6C09FCF1EDD" />
+      <Item Size="1420" Qu="1" SizeAdd="1100" IdItem="5167625" NameItem="о-3" UserDataItem="D5C7AC4A-FEF6-4794-BAE6-C935C9012AD1" />
+      <Item Size="1450" Qu="1" SizeAdd="1100" IdItem="5167626" NameItem="о-4" UserDataItem="DA8775C6-EEC9-43AA-AD02-70818C7DC820" />
+    </Order>
+    <Order TaskSort="3" IdOrder="550584" NameOrder="М6Н-0330" UserDataOrder="4E955B01-E4C8-478A-8410-51EDACA33727">
+      <Item Size="1430" Qu="1" SizeAdd="1410" IdItem="5268382" NameItem="ОБ-1:О-1" UserDataItem="1C33282B-638D-4A76-B419-31D97EC21286" />
+      <Item Size="820" Qu="1" SizeAdd="1410" IdItem="5268383" NameItem="ОБ-1:О-2" UserDataItem="5E917F7A-661B-4CC5-986A-F66CE9333978" />
+      <Item Size="1420" Qu="1" SizeAdd="1410" IdItem="5268388" NameItem="ОБ-2:О-1" UserDataItem="8C10BB6D-1452-40EF-8100-98CD32B863F4" />
+      <Item Size="820" Qu="1" SizeAdd="1410" IdItem="5268389" NameItem="ОБ-2:О-2" UserDataItem="E0F07B68-1F64-4D6B-8E43-EC1065CAD00F" />
+      <Item Size="690" Qu="1" SizeAdd="2120" IdItem="5268402" NameItem="ББ-1:БД-1" UserDataItem="842BB533-9A6F-451D-9C7C-413C9A2E6A92" />
+      <Item Size="1198" Qu="1" SizeAdd="1410" IdItem="5268403" NameItem="ББ-1:БО-1" UserDataItem="FD279C48-1DD5-4398-B65E-10F9902749D9" />
+      <Item Size="2020" Qu="1" SizeAdd="1410" IdItem="5268398" NameItem="ОБ-3:О-2" UserDataItem="4B5BA76F-8DB3-4AB2-B410-19D4EA207697" />
+      <Item Size="870" Qu="1" SizeAdd="1410" IdItem="5268399" NameItem="ОБ-3:О-1" UserDataItem="F4A509E0-C478-4184-9EB4-098F0C6BB95B" />
+    </Order>
+    <Order TaskSort="4" IdOrder="610014" NameOrder="М6Ц-1008" UserDataOrder="5513B4A8-F317-46AA-A6EB-9FFBA2FDD52A">
+      <Item Size="1330" Qu="1" SizeAdd="1520" IdItem="5911416" NameItem="ББ-1:О-1" UserDataItem="A1F820F0-08D8-49E1-8E0D-4BDF656B7902" />
+      <Item Size="738" Qu="1" SizeAdd="2270" IdItem="5911417" NameItem="ББ-1:БД-1" UserDataItem="2F1C27D3-49D5-4D05-B000-50C29C43C92C" />
+      <Item Size="1290" Qu="2" SizeAdd="1520" IdItem="5911418" NameItem="О-1,2" UserDataItem="88E9EC2A-35E1-4542-9C83-39A7B579A9D6" />
+      <Item Size="1450" Qu="1" SizeAdd="1620" IdItem="5911457" NameItem="ОБ-1:О-1" UserDataItem="6056908A-DDC2-4E07-BE0D-76865813388E" />
+      <Item Size="725" Qu="1" SizeAdd="1620" IdItem="5911458" NameItem="ОБ-1:О-2" UserDataItem="4031E313-F2C6-432D-8DC6-A74138D2D2FB" />
+      <Item Size="725" Qu="1" SizeAdd="1620" IdItem="5911459" NameItem="ОБ-1:О-3" UserDataItem="DD1FABAC-6261-4EF2-A051-70DEF76F9517" />
+    </Order>
+  </Task>
+  <Task Guid="BB41A1EC-838C-4EBB-AD64-87019EE5E6A7" NameTask="NameTask 5" UserDataTask="UserDataTask 5">
+    <Order TaskSort="1" IdOrder="273928" NameOrder="М3Н-0445" UserDataOrder="F68F0BB5-BDE3-4E01-BD54-C76308B9AF67">
+      <Item Size="1740" Qu="1" SizeAdd="1400" IdItem="2338253" NameItem="О-1" UserDataItem="116228E5-4FC8-4A3E-A6CF-75AE09AE9BB7" />
+      <Item Size="680" Qu="1" SizeAdd="2140" IdItem="2338299" NameItem="ББ:БД" UserDataItem="1D0EFBF8-349F-41C2-93DB-C0E8E16D1FCB" />
+      <Item Size="1080" Qu="1" SizeAdd="1400" IdItem="2338300" NameItem="ББ:БО" UserDataItem="869909EF-130A-4341-BE20-EDE30D88626C" />
+      <Item Size="1460" Qu="1" SizeAdd="1400" IdItem="2338263" NameItem="О-2" UserDataItem="6FC279A5-56E4-4131-84D1-134D0954A185" />
+    </Order>
+    <Order TaskSort="2" IdOrder="513352" NameOrder="М5П-1092" UserDataOrder="E305A230-C8C8-4196-B103-9CED36B7BDA0">
+      <Item Size="2400" Qu="1" SizeAdd="1560" IdItem="4959632" NameItem="ОБ-1:О-1" UserDataItem="B232B20D-E933-4B33-824B-99B36C1EA2A8" />
+      <Item Size="490" Qu="1" SizeAdd="1560" IdItem="4959650" NameItem="ОБ-1:О-2" UserDataItem="7E86AD8D-0F6D-4C13-8DE9-B1373516ED79" />
+      <Item Size="740" Qu="1" SizeAdd="1560" IdItem="4959651" NameItem="ОБ-1:О-3" UserDataItem="DCCE3660-BC1D-476E-B1AB-8A02849F548B" />
+      <Item Size="750" Qu="1" SizeAdd="2250" IdItem="4959661" NameItem="ББ-1:БД-1" UserDataItem="315DABB0-9E3E-41B8-9674-636E93E5ED8A" />
+      <Item Size="720" Qu="1" SizeAdd="1520" IdItem="4959662" NameItem="ББ-1:О-1" UserDataItem="E3D9A943-0256-438C-8FAC-AC5859BCB0AA" />
+    </Order>
+    <Order TaskSort="3" IdOrder="562320" NameOrder="М6К-249502" UserDataOrder="ADB20501-8753-43F1-BD78-C60B6092B69B">
+      <Item Size="1500" Qu="1" SizeAdd="1510" IdItem="5396819" NameItem="О-1" UserDataItem="085510CA-FC09-44D4-B97E-7B43C65204E9" />
+      <Item Size="2090" Qu="1" SizeAdd="1530" IdItem="5396820" NameItem="О-2" UserDataItem="085510CA-FC09-44D4-B97E-7B43C65204E9" />
+      <Item Size="730" Qu="1" SizeAdd="1530" IdItem="5396832" NameItem="ББ-1:БО-1" UserDataItem="07517C9E-38AA-4070-ABEF-90382501A7E3" />
+      <Item Size="780" Qu="1" SizeAdd="2220" IdItem="5396833" NameItem="ББ-1:БД-1" UserDataItem="70B55BAD-CC2A-4CF0-BC42-C0224D3450ED" />
+      <Item Size="820" Qu="1" SizeAdd="2250" IdItem="5396839" NameItem="ББ-1:БД-1" UserDataItem="212937DB-1F58-41A0-87A9-359349E9B512" />
+      <Item Size="750" Qu="1" SizeAdd="1540" IdItem="5396840" NameItem="ББ-1:БО-1" UserDataItem="7A64082B-7D17-419A-A544-B0B853CD6FF6" />
+    </Order>
+    <Order TaskSort="4" IdOrder="562818" NameOrder="М6Т-0540" UserDataOrder="C90611C3-1AEC-475D-9F8C-DA7CF395B40E">
+      <Item Size="1190" Qu="1" SizeAdd="1480" IdItem="5412017" NameItem="ОБ-1 : О-1" UserDataItem="E79CAE44-9C62-4EAD-8723-F9FB85D4D607" />
+      <Item Size="445" Qu="1" SizeAdd="1480" IdItem="5412113" NameItem="ОБ-1 : О-2" UserDataItem="FC655A62-95E5-43FE-9D50-04980DBFF687" />
+      <Item Size="445" Qu="1" SizeAdd="1480" IdItem="5412114" NameItem="ОБ-1 : О-3" UserDataItem="C73735DB-69AE-48EC-8BFD-25EF3B16B9F4" />
+      <Item Size="445" Qu="1" SizeAdd="1480" IdItem="5412115" NameItem="ОБ-1 : О-4" UserDataItem="92B63D28-3180-46D8-981C-99BDFF48BC15" />
+      <Item Size="680" Qu="1" SizeAdd="2150" IdItem="5412240" NameItem="ББ-1 : БД-1" UserDataItem="E8A25BAA-1214-416C-B5BD-CDE40825B72B" />
+      <Item Size="409" Qu="1" SizeAdd="1410" IdItem="5412241" NameItem="ББ-1 : БО-1" UserDataItem="A7185A5E-50CF-4D4D-9E2F-EFE7B5713345" />
+      <Item Size="759" Qu="1" SizeAdd="1410" IdItem="5412242" NameItem="ББ-1 : БО-2" UserDataItem="34F247A2-85C0-43E4-A291-417F285B793D" />
+      <Item Size="1750" Qu="1" SizeAdd="1410" IdItem="5412252" NameItem="О-1" UserDataItem="00DEA016-5912-43BD-9A7B-444B475863C1" />
+      <Item Size="1450" Qu="1" SizeAdd="1410" IdItem="5412262" NameItem="О-2" UserDataItem="394699A0-8852-4757-AB39-82059AD75E7D" />
+    </Order>
+    <Order TaskSort="5" IdOrder="601315" NameOrder="М6Ц-0904" UserDataOrder="C5CEE1A1-2B73-46C8-B755-FD724DB19892">
+      <Item Size="1300" Qu="2" SizeAdd="1520" IdItem="5819588" NameItem="О-1,2" UserDataItem="48B150A0-A280-4EC4-AEBE-7F9C134B61A1" />
+      <Item Size="1338" Qu="1" SizeAdd="1520" IdItem="5819596" NameItem="ББ-1:О-1" UserDataItem="84864A06-9628-48F8-918C-6C72A78C6873" />
+      <Item Size="740" Qu="1" SizeAdd="2380" IdItem="5819597" NameItem="ББ-1:БД-1" UserDataItem="49F3C5DD-419A-4CB7-B212-9BB26A0A4C2B" />
+      <Item Size="1440" Qu="1" SizeAdd="1610" IdItem="5819737" NameItem="ОБ-1:О-1" UserDataItem="D897DA54-3F90-4228-84EE-43B2BBC5668D" />
+      <Item Size="1440" Qu="1" SizeAdd="1610" IdItem="5819738" NameItem="ОБ-1:О-2" UserDataItem="33BFE3A4-7C6D-4E06-87FE-D776A676D6E7" />
+    </Order>
+    <Order TaskSort="6" IdOrder="611786" NameOrder="М6ВДВ-0055" UserDataOrder="ECA0A64E-2EE2-4913-AB16-1A6623D27373">
+      <Item Size="768" Qu="1" SizeAdd="1380" IdItem="5941377" NameItem="ББ-1:О-1" UserDataItem="93F14616-CD10-4322-B342-A10C6D692972" />
+      <Item Size="790" Qu="1" SizeAdd="2210" IdItem="5941378" NameItem="ББ-1:БД-1" UserDataItem="CD3F4F1C-14CB-4296-BB8B-A272E2A9E1E1" />
+      <Item Size="1560" Qu="1" SizeAdd="700" IdItem="5941379" NameItem="ББ-1:О-2" UserDataItem="8BF4C1B7-8B46-46F5-B053-6C20DECA788F" />
+      <Item Size="1100" Qu="2" SizeAdd="1960" IdItem="5941380" NameItem="О-1,2" UserDataItem="ACDEFBB2-6A83-403C-8013-1A0F0ED973D9" />
+      <Item Size="1570" Qu="1" SizeAdd="2050" IdItem="5941381" NameItem="О-3" UserDataItem="D0F6BDDD-2B09-4BCB-B9DC-6262B69E6AFB" />
+    </Order>
+    <Order TaskSort="7" IdOrder="622709" NameOrder="М6Р-1339" UserDataOrder="FB92853A-C298-4C00-B894-F1185701C73F">
+      <Item Size="2750" Qu="1" SizeAdd="1530" IdItem="6092485" NameItem="ОБ-1:О-3" UserDataItem="F273B99A-C523-455C-A8D8-FB1CD5C7BC01" />
+      <Item Size="2750" Qu="1" SizeAdd="1530" IdItem="6092533" NameItem="ОБ-1:О-2" UserDataItem="508565F0-8CE9-4474-A050-091529A029CC" />
+      <Item Size="730" Qu="1" SizeAdd="1530" IdItem="6092534" NameItem="ОБ-1:О-1" UserDataItem="381F3E6F-113E-457A-82C3-7DD905789BCF" />
+      <Item Size="820" Qu="1" SizeAdd="1530" IdItem="6092535" NameItem="ОБ-1:О-4" UserDataItem="6E1C9FF8-FE67-4D01-9FAE-607DB4CD9A75" />
+      <Item Size="665" Qu="1" SizeAdd="2030" IdItem="6092653" NameItem="ОБ-2:О-1" UserDataItem="306D36C2-1125-4FD3-8EF6-CC1B8341EC86" />
+      <Item Size="665" Qu="1" SizeAdd="520" IdItem="6092654" NameItem="ОБ-2:О-2" UserDataItem="42EB1D6B-4FF0-4F35-ACDD-D30E1C2843C1" />
+    </Order>
+    <Order TaskSort="8" IdOrder="639589" NameOrder="М6Щ-2122" UserDataOrder="AA11653F-DC28-41E2-A53C-54226143C729">
+      <Item Size="650" Qu="1" SizeAdd="1520" IdItem="6338024" NameItem="О-1" UserDataItem="693C81D2-6C1E-424C-932F-A17C9EA44143" />
+      <Item Size="650" Qu="1" SizeAdd="1520" IdItem="6338025" NameItem="О-2" UserDataItem="8FE3537C-4692-42CF-A703-FBE78C6F84B7" />
+      <Item Size="2100" Qu="1" SizeAdd="1520" IdItem="6338026" NameItem="О-3" UserDataItem="AED96864-653C-4D6F-A68A-2AE7FCE152BA" />
+      <Item Size="750" Qu="1" SizeAdd="1520" IdItem="6338027" NameItem="О-4" UserDataItem="55248CBE-46CC-40EF-87F9-8A9FD36FBEC4" />
+      <Item Size="750" Qu="1" SizeAdd="1520" IdItem="6338028" NameItem="О-5" UserDataItem="DFB534DF-BC02-444F-91C2-1EE82BF0DF13" />
+      <Item Size="750" Qu="1" SizeAdd="1520" IdItem="6338029" NameItem="О-7" UserDataItem="3EF24D33-9CEA-40C9-BE8B-F2CE63BF8CFC" />
+      <Item Size="1350" Qu="1" SizeAdd="1520" IdItem="6338030" NameItem="О-8" UserDataItem="DFA439C9-B8EB-40F0-91D2-5F7E80EA1B53" />
+      <Item Size="660" Qu="1" SizeAdd="1470" IdItem="6349089" NameItem="О-6" UserDataItem="7B0959A7-BD1F-40A4-8D87-550121310657" />
+      <Item Size="810" Qu="1" SizeAdd="1470" IdItem="6349098" NameItem="О-10" UserDataItem="59772413-F623-4A4F-86A1-005595D457CD" />
+      <Item Size="500" Qu="1" SizeAdd="1470" IdItem="6349090" NameItem="О-9" UserDataItem="6D242B38-43C8-4588-AE85-CEBC996B24C7" />
+      <Item Size="1320" Qu="1" SizeAdd="1470" IdItem="6349100" NameItem="О-11" UserDataItem="F206EE48-EDEC-45BD-8B9A-41F87F56F89A" />
+      <Item Size="1835" Qu="1" SizeAdd="1470" IdItem="6349105" NameItem="О-12" UserDataItem="3DD11C1F-549B-434A-B67B-1C1346C373F5" />
+    </Order>
+  </Task>
+  <Task Guid="55E275C9-CBF0-46D2-A369-32A0BC043E33" NameTask="NameTask 6" UserDataTask="UserDataTask 6">
+    <Car NameCar="LongVehicle" />
+    <Order TaskSort="1" IdOrder="476845" NameOrder="М5Ф-0594" UserDataOrder="FA766369-C5DE-4D23-ADB1-1694C5057498">
+      <Item Size="1465" Qu="1" SizeAdd="1099" IdItem="4501850" NameItem="ОБ-1:О-1" UserDataItem="B1DF3F24-2CB6-46B2-A371-F8FD0A2543E9" />
+      <Item Size="1465" Qu="1" SizeAdd="1344" IdItem="4501851" NameItem="ОБ-1:О-2" UserDataItem="77B50FF2-6964-4A88-BC13-71ADD49C26F4" />
+      <Item Size="1465" Qu="1" SizeAdd="1099" IdItem="4501852" NameItem="ОБ-1:О-3" UserDataItem="D09BFF67-5893-4F87-B330-61ECE3456AAD" />
+      <Item Size="1465" Qu="1" SizeAdd="1344" IdItem="4501853" NameItem="ОБ-1:О-4" UserDataItem="02761B63-87FA-42CB-9E0A-40130998F868" />
+      <Item Size="1465" Qu="1" SizeAdd="1099" IdItem="4501854" NameItem="ОБ-1:О-5" UserDataItem="A92BCA5C-4446-4E0B-87EA-5C04154808E7" />
+      <Item Size="1465" Qu="1" SizeAdd="1099" IdItem="4501855" NameItem="ОБ-1:О-7" UserDataItem="A0DF829F-B6EE-4555-A8A5-F301E56C6D7E" />
+      <Item Size="1465" Qu="1" SizeAdd="1344" IdItem="4501856" NameItem="ОБ-1:О-8" UserDataItem="40EA8280-5C50-4C44-820A-6CA2AAFB5EB3" />
+      <Item Size="1465" Qu="1" SizeAdd="1344" IdItem="4501857" NameItem="ОБ-1:О-6" UserDataItem="06450ABC-C4CF-49F1-BE11-EF85047BB862" />
+    </Order>
+    <Order TaskSort="2" IdOrder="485980" NameOrder="М5ВЛ-3204" UserDataOrder="AED073A0-7A33-45E6-AB69-AF783DC7CF93">
+      <Item Size="1960" Qu="1" SizeAdd="1770" IdItem="4594179" NameItem="О-1" UserDataItem="5A17F0A7-074F-4404-B2E9-A632F3AD5650" />
+      <Item Size="1960" Qu="1" SizeAdd="1770" IdItem="4594180" NameItem="О-2" UserDataItem="0480D985-9036-4347-BF77-BC852106CB5C" />
+      <Item Size="1160" Qu="1" SizeAdd="1600" IdItem="4594181" NameItem="О-3" UserDataItem="1C969FA4-1EB7-49FA-8EA2-EA5D43775D3D" />
+      <Item Size="610" Qu="1" SizeAdd="555" IdItem="4594182" NameItem="О-4" UserDataItem="67CA1C0A-6CB5-4B87-A01D-CF4B7BC0B142" />
+      <Item Size="1205" Qu="1" SizeAdd="2255" IdItem="4594183" NameItem="ВД-1" UserDataItem="2C41E809-13FE-40AD-819D-7A9B4F8D1A16" />
+      <Item Size="1750" Qu="1" SizeAdd="1170" IdItem="4594184" NameItem="О-5" UserDataItem="19B459F3-25B7-4EB7-A264-587B793C1D70" />
+      <Item Size="1150" Qu="1" SizeAdd="1170" IdItem="4594185" NameItem="О-6" UserDataItem="A5F75F61-C2D4-494B-B343-46C2433B1465" />
+      <Item Size="1360" Qu="1" SizeAdd="1220" IdItem="4594186" NameItem="О-7" UserDataItem="8890F5B4-68B1-4266-87CE-0EC3A85B58B2" />
+      <Item Size="1360" Qu="1" SizeAdd="1220" IdItem="4594187" NameItem="О-8" UserDataItem="E1D083D4-52E2-4C31-A3C4-F69ED62D73B4" />
+    </Order>
+    <Order TaskSort="3" IdOrder="494857" NameOrder="М5ВО-0803" UserDataOrder="6489F6FA-74E7-4A4C-8C45-A918DF2F15AB">
+      <Item Size="1940" Qu="9" SizeAdd="1720" IdItem="4686545" NameItem="О:1-9" UserDataItem="9853D57F-03D8-4D72-B721-000E6BADEB0C" />
+    </Order>
+    <Order TaskSort="4" IdOrder="503870" NameOrder="М5НН-92048" UserDataOrder="5F84CD37-70FC-4413-AA52-1FD9DADF1D8F">
+      <Item Size="1200" Qu="3" SizeAdd="1200" IdItem="4781539" NameItem="О-1" UserDataItem="006BAEDF-4241-464A-AEFE-B6743EC5B302" />
+      <Item Size="1300" Qu="3" SizeAdd="1300" IdItem="4781546" NameItem="О-2" UserDataItem="D1DBF2CC-77E0-4C2F-A2E0-CF5B78AC73C3" />
+      <Item Size="1300" Qu="3" SizeAdd="1520" IdItem="4781551" NameItem="О-3" UserDataItem="B46CA229-3FB2-43F3-B36D-ABBD2AC135DE" />
+      <Item Size="800" Qu="1" SizeAdd="2000" IdItem="4781566" NameItem="БД" UserDataItem="85BFD9F8-36A6-4D09-8F60-29D47E989C14" />
+    </Order>
+    <Order TaskSort="5" IdOrder="546592" NameOrder="О6КГБ-4191" UserDataOrder="349E6047-8169-40F2-8437-64AA81E6A23B">
+      <Item Size="843" Qu="1" SizeAdd="2740" IdItem="5224390" NameItem="0-1" UserDataItem="55B3D80A-0B9B-4BE5-BB25-37FA792FB0B8" />
+      <Item Size="844" Qu="1" SizeAdd="2740" IdItem="5224391" NameItem="0-2" UserDataItem="54907ADB-EEFB-4AE9-8673-349CBB49D4BF" />
+      <Item Size="843" Qu="1" SizeAdd="2740" IdItem="5224392" NameItem="0-3" UserDataItem="6157C1D3-0DE8-4073-A256-0A514048D53E" />
+      <Item Size="820" Qu="1" SizeAdd="2740" IdItem="5224393" NameItem="0-4" UserDataItem="180F9C89-49CB-40F1-9288-933CB504837B" />
+      <Item Size="820" Qu="1" SizeAdd="2740" IdItem="5224394" NameItem="0-5" UserDataItem="356A3AF8-A0FB-4327-A31B-711EE8E2386E" />
+      <Item Size="820" Qu="1" SizeAdd="2740" IdItem="5224395" NameItem="0-6" UserDataItem="9DEB9602-C0BD-4FD9-BF6A-8E4A683D4327" />
+      <Item Size="843" Qu="1" SizeAdd="2740" IdItem="5224396" NameItem="0-7" UserDataItem="403B2FF3-DBAC-4AFB-938C-C824FE8D72DE" />
+      <Item Size="844" Qu="1" SizeAdd="2740" IdItem="5224397" NameItem="0-8" UserDataItem="AD807AAF-40B5-45F4-82CE-8BE095D91DC4" />
+      <Item Size="843" Qu="1" SizeAdd="2740" IdItem="5224398" NameItem="0-9" UserDataItem="1DDE3B67-E996-4F0C-B9B6-7B8FFEB824DD" />
+    </Order>
+    <Order TaskSort="6" IdOrder="549470" NameOrder="М6К-0342" UserDataOrder="160E383E-D273-48F4-9961-6B325015DBB1">
+      <Item Size="1495" Qu="1" SizeAdd="1060" IdItem="5256739" NameItem="ОБ-1:О-5" UserDataItem="7AB4833B-1EF9-407B-8F3E-A7017EFE4A21" />
+      <Item Size="1770" Qu="1" SizeAdd="1060" IdItem="5256740" NameItem="ОБ-1:О-6" UserDataItem="654A7034-F6CB-4C76-8054-2910AFC4E9AB" />
+      <Item Size="1770" Qu="1" SizeAdd="1650" IdItem="5256747" NameItem="ОБ-1:О-2" UserDataItem="C59D07DB-E72C-4342-9983-6442F29FDFC3" />
+      <Item Size="919" Qu="1" SizeAdd="1650" IdItem="5265383" NameItem="ОБ-1:О-3" UserDataItem="E623EF25-2BD9-4513-B5E2-70422F1A9C52" />
+      <Item Size="919" Qu="1" SizeAdd="1060" IdItem="5265384" NameItem="ОБ-1:О-7" UserDataItem="CCDE3283-5029-440D-AE8A-DD67C46C62B2" />
+      <Item Size="1360" Qu="1" SizeAdd="1060" IdItem="5256741" NameItem="ОБ-1:О-8" UserDataItem="3FDAB7F5-A3CF-400E-B6CA-45F5B8ADF056" />
+      <Item Size="1360" Qu="1" SizeAdd="1650" IdItem="5256746" NameItem="ОБ-1:О-4" UserDataItem="E84C61D6-AAD4-4BC5-BE8A-48CFCD171E3B" />
+      <Item Size="1495" Qu="1" SizeAdd="1650" IdItem="5256748" NameItem="ОБ-1:О-1" UserDataItem="55694B39-1540-4002-9BD6-01D30BA98D50" />
+    </Order>
+    <Order TaskSort="7" IdOrder="551334" NameOrder="М6НН-0039" UserDataOrder="A7DE0610-F38E-4F08-B3A2-D9EBBD289ED6">
+      <Item Size="710" Qu="1" SizeAdd="1590" IdItem="5276674" NameItem="О-1" UserDataItem="D63493CF-A532-4B18-A808-E841AC58DECA" />
+      <Item Size="1440" Qu="1" SizeAdd="1590" IdItem="5276675" NameItem="О-2" UserDataItem="45ABA5DB-7001-4939-A1C4-6FECF31DAC3C" />
+      <Item Size="710" Qu="1" SizeAdd="1590" IdItem="5276676" NameItem="О-3" UserDataItem="03B4E064-729E-452E-AF5A-136CBF76C308" />
+      <Item Size="900" Qu="1" SizeAdd="1560" IdItem="5276677" NameItem="ББ-1:О-1" UserDataItem="F4585AD6-8A65-48E3-BD8B-054C78A0337C" />
+      <Item Size="668" Qu="1" SizeAdd="2270" IdItem="5276678" NameItem="ББ-1:БД-1" UserDataItem="FD12A436-B5F9-49FD-8164-6843EA50B1FB" />
+      <Item Size="1780" Qu="1" SizeAdd="1570" IdItem="5276679" NameItem="ББ-2:О-1" UserDataItem="B4048B0E-92A8-4F9C-9625-09997D7ED6B1" />
+      <Item Size="668" Qu="1" SizeAdd="2340" IdItem="5276680" NameItem="ББ-2:БД-1" UserDataItem="CD1F0EFE-F6F7-4792-B875-D46A7419E253" />
+      <Item Size="2330" Qu="1" SizeAdd="1370" IdItem="5276681" NameItem="ОБ-1" UserDataItem="0DF38C93-2E9C-4F18-8B82-E632E4FF715C" />
+      <Item Size="2490" Qu="1" SizeAdd="1420" IdItem="5276682" NameItem="ОБ-2" UserDataItem="85C14BD9-6F6B-4A55-B944-4087F9B02E1B" />
+    </Order>
+    <Order TaskSort="8" IdOrder="560114" NameOrder="М6З-0434" UserDataOrder="2219FDDD-3524-4245-AAA0-5B9E2528393F">
+      <Item Size="570" Qu="1" SizeAdd="1180" IdItem="5372383" NameItem="О-1" UserDataItem="5D0588AC-7A87-490B-981E-E03F027BD0BC" />
+      <Item Size="750" Qu="1" SizeAdd="1180" IdItem="5372386" NameItem="О-6" UserDataItem="6475A399-8BF8-4540-BC92-93B1FF790492" />
+      <Item Size="1750" Qu="1" SizeAdd="1180" IdItem="5372394" NameItem="О-3" UserDataItem="25597833-752E-4B40-A7E5-BBAC7224DFB5" />
+      <Item Size="1200" Qu="1" SizeAdd="1180" IdItem="5372395" NameItem="О-4" UserDataItem="8A584875-DB57-4449-844E-BA725E038C73" />
+      <Item Size="1200" Qu="1" SizeAdd="1180" IdItem="5372396" NameItem="О-5" UserDataItem="5F125C5E-AD79-48CC-BE07-36A57A7AE649" />
+      <Item Size="1450" Qu="3" SizeAdd="2065" IdItem="5372410" NameItem="БД-1,2,3" UserDataItem="A1330E27-3580-4608-AD2A-EB960F28C40F" />
+      <Item Size="500" Qu="1" SizeAdd="1180" IdItem="5372385" NameItem="О-2" UserDataItem="9590FE29-14AA-428D-87D0-C780627CBC69" />
+    </Order>
+    <Order TaskSort="9" IdOrder="565945" NameOrder="О6РМС-0893" UserDataOrder="7468D9C3-AEBA-42B1-A5C5-A748F4310AE8">
+      <Item Size="1030" Qu="8" SizeAdd="1000" IdItem="5435849" NameItem="О-1" UserDataItem="BF4BFC37-BE75-4C68-89D0-DB4A981F1751" />
+      <Item Size="530" Qu="1" SizeAdd="1030" IdItem="5435850" NameItem="О-2" UserDataItem="BB127A70-7AC8-4D9A-83D7-2847BCA2CD45" />
+    </Order>
+    <Order TaskSort="10" IdOrder="587939" NameOrder="М6КТ-2306" UserDataOrder="EA364565-1FCF-4EF0-A5C3-FB551C012528">
+      <Item Size="1030" Qu="1" SizeAdd="2300" IdItem="5682567" NameItem="Дверь-1" UserDataItem="6937048C-87AC-48FD-85A2-F56D1797B079" />
+      <Item Size="1030" Qu="1" SizeAdd="900" IdItem="5682568" NameItem="Дверь-1(глухарь)" UserDataItem="94167CB3-0CE8-4FAD-A560-A9C995AA4494" />
+      <Item Size="1120" Qu="3" SizeAdd="2140" IdItem="5682569" NameItem="Окно-3,4,5" UserDataItem="048EC897-B164-471D-B195-34558B6601C1" />
+      <Item Size="1490" Qu="1" SizeAdd="2140" IdItem="5682570" NameItem="Окно-1" UserDataItem="78EAE83D-FF32-4F91-80CA-7B8F9035123E" />
+      <Item Size="1030" Qu="1" SizeAdd="2300" IdItem="5682571" NameItem="Дверь-2" UserDataItem="6937048C-87AC-48FD-85A2-F56D1797B079" />
+      <Item Size="1030" Qu="1" SizeAdd="900" IdItem="5682572" NameItem="Дверь-2(глухарь)" UserDataItem="9AD65BF9-04E7-41DC-AF2C-92AF5A80A338" />
+      <Item Size="1520" Qu="1" SizeAdd="2140" IdItem="5682573" NameItem="Окно-2" UserDataItem="78EAE83D-FF32-4F91-80CA-7B8F9035123E" />
+    </Order>
+    <Order TaskSort="11" IdOrder="589415" NameOrder="М6ВО-0720" UserDataOrder="EED8BBCE-1B79-4F41-8FEA-910BD38C09CB">
+      <Item Size="720" Qu="1" SizeAdd="2270" IdItem="5697287" NameItem="ББ.БД" UserDataItem="21D55CD6-6370-4BA4-82DC-C650736979B3" />
+      <Item Size="1200" Qu="1" SizeAdd="1430" IdItem="5697288" NameItem="ББ.БО" UserDataItem="86D75195-76F2-4F86-9E8C-C4A8B821ED18" />
+      <Item Size="1510" Qu="1" SizeAdd="1580" IdItem="5697289" NameItem="Об-2:О-1" UserDataItem="448E4734-5503-4BB8-A0A6-9A70BCEFCEBB" />
+      <Item Size="1660" Qu="1" SizeAdd="1580" IdItem="5697290" NameItem="Об-2:О-2" UserDataItem="7CCD4A4D-9300-4E37-B709-C7F4C84CA8D2" />
+      <Item Size="1760" Qu="1" SizeAdd="1430" IdItem="5697291" NameItem="О-1" UserDataItem="B02B2EF0-FE52-4DCC-98F5-03F3A059B205" />
+      <Item Size="2360" Qu="1" SizeAdd="1570" IdItem="5697292" NameItem="ОБ-3.О-1" UserDataItem="FC266C56-C38E-42A9-87A8-FC2F6D966417" />
+      <Item Size="570" Qu="1" SizeAdd="1570" IdItem="5697293" NameItem="ОБ-3.О-2" UserDataItem="C6AFFEC5-00DB-4962-B850-7C824588E8DE" />
+      <Item Size="300" Qu="1" SizeAdd="1570" IdItem="5697294" NameItem="ОБ-3.О-3" UserDataItem="731C9B55-DA1C-41F6-9936-EDA0D1E723F4" />
+      <Item Size="1320" Qu="1" SizeAdd="1420" IdItem="5697295" NameItem="Об-1:О-1" UserDataItem="524A59B7-E8C9-45A9-9C5E-E72EE98FA256" />
+      <Item Size="580" Qu="1" SizeAdd="1420" IdItem="5697296" NameItem="Об-1:О-2" UserDataItem="99136FFB-A205-4587-AA5B-22068A4234D5" />
+    </Order>
+    <Order TaskSort="12" IdOrder="628202" NameOrder="М6КТ-2467" UserDataOrder="45682A2D-4D73-49A8-B4F6-24BE6A3840C1">
+      <Item Size="1460" Qu="1" SizeAdd="1540" IdItem="6191152" NameItem="О-1" UserDataItem="4232AF32-B638-4BE2-A5D8-0EB1B5F7A11F" />
+      <Item Size="1620" Qu="1" SizeAdd="1540" IdItem="6191153" NameItem="О-2" UserDataItem="E3A3CA3A-83AB-4F66-AE8E-CD69903DD2EC" />
+      <Item Size="800" Qu="1" SizeAdd="1540" IdItem="6191154" NameItem="О-3" UserDataItem="9019CBE7-77D5-4717-9781-9D14CF15A925" />
+      <Item Size="2000" Qu="1" SizeAdd="1540" IdItem="6191155" NameItem="О-4" UserDataItem="036E7E4F-4C89-4729-806C-9FA3137EF316" />
+      <Item Size="1370" Qu="1" SizeAdd="1380" IdItem="6191156" NameItem="БО-1" UserDataItem="57AB21AF-F729-4199-A3AA-D0E493B1F7C9" />
+      <Item Size="735" Qu="1" SizeAdd="1380" IdItem="6191157" NameItem="БО-2" UserDataItem="F75969F3-0DAE-425A-B92A-05B0D8803C5A" />
+      <Item Size="2206" Qu="1" SizeAdd="1380" IdItem="6191158" NameItem="БО-3" UserDataItem="6CB6CBEB-A1CC-42EC-8CB1-8B546C3F91A6" />
+      <Item Size="735" Qu="1" SizeAdd="1380" IdItem="6191159" NameItem="БО-4" UserDataItem="15904056-C044-4EB0-9793-9A42B754B13E" />
+      <Item Size="1370" Qu="1" SizeAdd="1380" IdItem="6191160" NameItem="БО-5" UserDataItem="A3C799B2-7390-4432-870B-BF364FD96F83" />
+    </Order>
+    <Order TaskSort="13" IdOrder="639266" NameOrder="М6Н-1702" UserDataOrder="0031A84D-5E84-473B-9760-39E8BADC1AD0">
+      <Item Size="860" Qu="1" SizeAdd="2318" IdItem="6336008" NameItem="ББ1,Д1" UserDataItem="EC26D50E-E9DF-4C66-BB84-15FB539ABD06" />
+      <Item Size="860" Qu="1" SizeAdd="300" IdItem="6336009" NameItem="ББ1,О1" UserDataItem="A0EECE11-AF4B-4CD5-901F-387D627B9A7B" />
+      <Item Size="900" Qu="1" SizeAdd="1700" IdItem="6336010" NameItem="ББ2,О3" UserDataItem="71D90C9A-81BB-4BD6-B374-9B14F26AD74F" />
+      <Item Size="880" Qu="1" SizeAdd="2319" IdItem="6336011" NameItem="ББ2,Д1" UserDataItem="45A3DCEF-A2AF-4C37-BFAB-59A133348B4E" />
+      <Item Size="880" Qu="1" SizeAdd="299" IdItem="6336012" NameItem="ББ2,О2" UserDataItem="0303EBB8-440E-45A6-BD59-F5D5BD0DBB57" />
+      <Item Size="1384" Qu="1" SizeAdd="1730" IdItem="6335994" NameItem="ОБ1,О1" UserDataItem="3F97DB07-1850-4AF0-9BD0-FC739E1F9446" />
+      <Item Size="1384" Qu="1" SizeAdd="1730" IdItem="6335995" NameItem="ОБ1,О2" UserDataItem="77C340D2-D5CA-4224-A496-23354235F255" />
+      <Item Size="1380" Qu="1" SizeAdd="1650" IdItem="6336013" NameItem="ОБ2,О1" UserDataItem="3F97DB07-1850-4AF0-9BD0-FC739E1F9446" />
+      <Item Size="1380" Qu="1" SizeAdd="1650" IdItem="6336014" NameItem="ОБ2,О2" UserDataItem="77C340D2-D5CA-4224-A496-23354235F255" />
+    </Order>
+  </Task>
+</LoadDataForCarPyramidApplication>
